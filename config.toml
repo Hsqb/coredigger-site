@@ -1,0 +1,4 @@
+baseURL = "http://www.coredigger.io/"
+languageCode = "ko-kr"
+title = "My New Hugo Site"
+theme = "hugo-theme-learn"
