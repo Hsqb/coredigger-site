@@ -2,6 +2,7 @@ baseURL = "http://www.coredigger.io/"
 languageCode = "ko-kr"
 title = "Core Digger"
 theme = "hugo-theme-learn"
-themeVariant = "blue"
-editURL = ""
-home = [ "HTML", "RSS", "JSON"]
+[params]
+    themeVariant = "mine"
+    editURL = "https://github.com/Hsqb/coredigger-site/blob/master/content/"
+    home = [ "HTML", "RSS", "JSON"]

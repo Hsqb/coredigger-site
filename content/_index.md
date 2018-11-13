@@ -1,8 +1,12 @@
-+++
-title = "Core-Digger"
-weight = 5
-+++
+---
+title : "Core-Digger"
+chapter : true
+weight : 5
+---
 
-## Hello, world!
 
-Core-Digger가 시작됩니다.
+## Hello, BLOG!
+
+Core-Digger blog가 시작됩니다.
+
+
